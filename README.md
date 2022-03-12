@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tahseenRaj
 - 👀 I’m interested in topics like Quantum Computing, Artificial Intelligence, Cloud Computing, Block Chain, Programming, Science of Space and History.
-- 🌱 I’m currently enrolled in CS50x Intro to Computer Science.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently enrolled in BS Computer Science at Ilma University.
 - 📫 facebook.com/raj.tahseen
 
 <!---
