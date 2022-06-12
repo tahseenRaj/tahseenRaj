@@ -3,7 +3,4 @@
 - 🌱 I’m currently enrolled in BS Computer Science at Ilma University.
 - 📫 facebook.com/raj.tahseen
 
-<!---
-tahseenRaj/tahseenRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahseenRaj&theme=dark)](https://git.io/streak-stats)
